@@ -17,3 +17,4 @@ Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool, Submit patches here: https:
 // guard against empty input
 // drop an unused branch
 // drop an unused branch
+// keep defaults in sync with the manifest
